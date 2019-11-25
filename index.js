@@ -11,7 +11,8 @@ try {
 })
 */
 
-const contents = fs.readFileSync(`${__dirname}/products.json`, 'utf8')
+const filename = "products.json";
+const contents = fs.readFileSync(`${__dirname}/${filename}`, 'utf8')
 console.log(contents)
 try {
     var obj = JSON.parse(contents)
