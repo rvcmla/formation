@@ -31,9 +31,19 @@ function getAllProducts(obj) {
     })
 }
 
+function connectToRepository() {
+    const contents = fs.readFileSync(repository, 'utf8');
+    try {
+        obj = JSON.parse(contents)
+    } catch (e) {
+        console.log(e)
+    }
+    return obj;
+}
+
 module.exports = {
     orderProductById,
     getAllProducts,
     phrase,
-    repository
+    connectToRepository
 };
