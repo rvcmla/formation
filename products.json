@@ -1,0 +1,22 @@
+[
+    {
+        "id" : "angularjs",
+        "name": "angular.js",
+        "description": "",
+        "USD_price": "15.00",
+        "EUR_price": "16.00",
+        "file_link": "",
+        "creation_date" : "",
+        "orders_counter" : "0"
+    },
+    {
+        "id" : "nodejs",
+        "name": "node.js",
+        "description": "",
+        "USD_price": "15.00",
+        "EUR_price": "16.00",
+        "file_link": "",
+        "creation_date" : "",
+        "orders_counter" : "0"
+    }
+]
