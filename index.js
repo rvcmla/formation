@@ -3,9 +3,7 @@ let utils = require("./utils.js")
 
 var readline = require('readline'); //je crée une variable avec l'import
 
-const filename = "products.json";
-const filenameWithCurrent = `${__dirname}/${filename}`;
-const contents = fs.readFileSync(filenameWithCurrent, 'utf8')
+const contents = fs.readFileSync(utils.repository, 'utf8')
 //console.log(contents)
 
 var obj;
@@ -15,7 +13,7 @@ var rl = readline.createInterface({input : process.stdin, output: process.stdout
 rl.on('line', function(line) {
     if (line.startsWith(utils.phrase)) {
         var array = line.split(' ')
-        utils.orderProductById(obj, array[array.length-1], filenameWithCurrent, () => {
+        utils.orderProductById(obj, array[array.length-1], () => {
         utils.getAllProducts(obj)
         }) //Le deuxième paramètre est la fonction callback
     }
