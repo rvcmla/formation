@@ -1,22 +1,22 @@
 [
-    {
-        "id" : "angularjs",
-        "name": "angular.js",
-        "description": "",
-        "USD_price": "15.00",
-        "EUR_price": "16.00",
-        "file_link": "",
-        "creation_date" : "",
-        "orders_counter" : "0"
-    },
-    {
-        "id" : "nodejs",
-        "name": "node.js",
-        "description": "",
-        "USD_price": "15.00",
-        "EUR_price": "16.00",
-        "file_link": "",
-        "creation_date" : "",
-        "orders_counter" : "0"
-    }
+  {
+    "id": "angularjs",
+    "name": "angular.js",
+    "description": "",
+    "USD_price": 15,
+    "EUR_price": 16.3,
+    "file_link": "http://www.toto.com/angularjs",
+    "creation_date": "",
+    "orders_counter": 2
+  },
+  {
+    "id": "nodejs",
+    "name": "node.js",
+    "description": "",
+    "USD_price": 15.3,
+    "EUR_price": 16.5,
+    "file_link": "http://www.toto.com/nodejs",
+    "creation_date": "",
+    "orders_counter": 5
+  }
 ]
