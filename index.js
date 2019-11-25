@@ -3,11 +3,11 @@ let utils = require("./utils.js")
 
 var readline = require('readline'); //je crée une variable avec l'import
 
-const contents = fs.readFileSync(utils.repository, 'utf8')
+//const contents = fs.readFileSync(utils.repository, 'utf8')
 //console.log(contents)
 
-var obj;
-init();
+var obj = utils.connectToRepository();
+//init();
 
 var rl = readline.createInterface({input : process.stdin, output: process.stdout, terminal: false});
 rl.on('line', function(line) {
@@ -22,13 +22,13 @@ rl.on('line', function(line) {
 
 utils.getAllProducts(obj)
 
-function init() {
+/*function init() {
     try {
         obj = JSON.parse(contents)
     } catch (e) {
         console.log(e)
     }
-}
+}*/
 
 /*const contents = fs.readFile(`${__dirname}/products.json`, 'utf8', (err, content) => {
 console.log(contents)
