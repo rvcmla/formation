@@ -13,17 +13,16 @@ init();
 
 var rl = readline.createInterface({input : process.stdin, output: process.stdout, terminal: false});
 rl.on('line', function(line) {
-    if (line.startsWith("I want product")) {
+    if (line.startsWith(utils.phrase)) {
         var array = line.split(' ')
         utils.orderProductById(obj, array[array.length-1], filenameWithCurrent, () => {
-            getAllProducts()
+        utils.getAllProducts(obj)
         }) //Le deuxième paramètre est la fonction callback
     }
     
 })
 
-
-getAllProducts()
+utils.getAllProducts(obj)
 
 function init() {
     try {
@@ -32,17 +31,6 @@ function init() {
         console.log(e)
     }
 }
-
-function getAllProducts() {
-    console.log('Bienvenue. Voici les produits disponibles')
-    obj.forEach((product) => {
-        console.log(`${product.id} - ${product.name} / ${product.EUR_price} - ${product.orders_counter}`)   
-    })
-}
-
-
-
-
 
 /*const contents = fs.readFile(`${__dirname}/products.json`, 'utf8', (err, content) => {
 console.log(contents)
