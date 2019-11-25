@@ -1,5 +1,5 @@
 let fs = require('fs')
-
+const phrase = "Je voudrai le produit";
 
 function orderProductById(obj, id, filenameWithCurrent, callback) {
     var found;
@@ -23,6 +23,15 @@ function saveToFile(obj, filenameWithCurrent, callback) {
     })
 }
 
+function getAllProducts(obj) {
+    console.log('Bienvenue. Voici les produits disponibles')
+    obj.forEach((product) => {
+        console.log(`${product.id} - ${product.name} / ${product.EUR_price} - ${product.orders_counter}`)   
+    })
+}
+
 module.exports = {
-    orderProductById
+    orderProductById,
+    getAllProducts,
+    phrase
 };
