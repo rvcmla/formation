@@ -1,8 +1,8 @@
 let fs = require('fs')
-const phrase = "Je voudrai le produit";
+
 const repository = `${__dirname}/products.json`;
 
-function orderProductById(obj, id, callback) {
+/*function orderProductById(obj, id, callback) {
     var found;
     obj.forEach((product) => {
         if (product.id == id) {
@@ -15,23 +15,16 @@ function orderProductById(obj, id, callback) {
         saveToFile(obj, callback)
     else
         callback()
-}
+}*/
 
-function saveToFile(obj, callback) {
+function saveData(obj, callback) {
     fs.writeFile(repository, JSON.stringify(obj, null, 2), (err) => {
         console.log('Sauvegardée en fichier.')
         callback()
     })
 }
 
-function getAllProducts(obj) {
-    console.log('Bienvenue. Voici les produits disponibles')
-    obj.forEach((product) => {
-        console.log(`${product.id} - ${product.name} / ${product.EUR_price} - ${product.orders_counter}`)   
-    })
-}
-
-function connectToRepository() {
+function retrieveData() {
     const contents = fs.readFileSync(repository, 'utf8');
     try {
         obj = JSON.parse(contents)
@@ -42,8 +35,6 @@ function connectToRepository() {
 }
 
 module.exports = {
-    orderProductById,
-    getAllProducts,
-    phrase,
-    connectToRepository
+    retrieveData,
+    saveData
 };
