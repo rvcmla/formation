@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-26T10:46:03.848Z" agent="5.0 (X11)" etag="XKS-ga0R1elMRhxkhMJW" version="18.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-26T10:56:19.331Z" agent="5.0 (X11)" etag="dRfALq8ZEv9Oeh37nZNE" version="18.0.8" type="github">
   <diagram id="obGRaE8XgYMWURcT9A6B" name="Page-1">
     <mxGraphModel dx="1398" dy="913" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -156,6 +156,30 @@
             <mxPoint x="822" y="372" as="sourcePoint" />
             <mxPoint x="1042" y="438" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="KMllPCVLpyvuSk6OKacK-42" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;rounded=0;fontSize=12;exitX=0.7;exitY=0.1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="KMllPCVLpyvuSk6OKacK-25" target="KMllPCVLpyvuSk6OKacK-43">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="430" as="sourcePoint" />
+            <mxPoint x="150" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KMllPCVLpyvuSk6OKacK-43" value="secrète l&#39;adrénaline" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="101" y="420" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KMllPCVLpyvuSk6OKacK-44" value="&lt;div align=&quot;left&quot;&gt;&lt;u&gt;Augmentation&lt;/u&gt; &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;des spasmes des vaisseaux sanguins, artères, et veines,&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;de l&#39;excitabilité des muscles,&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;de la pression artérielle et du pouls&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;du glucose sanguin dont 30 pourcents est utilisé par le cerveau&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="40" y="460" width="319" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="KMllPCVLpyvuSk6OKacK-45" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;rounded=0;fontSize=12;" edge="1" parent="1" target="KMllPCVLpyvuSk6OKacK-46">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="630" y="370" as="sourcePoint" />
+            <mxPoint x="685.5" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KMllPCVLpyvuSk6OKacK-46" value="&lt;div&gt;secrète l&#39;aldostérone, &lt;br&gt;&lt;/div&gt;&lt;div&gt;la cortisone et &lt;br&gt;&lt;/div&gt;&lt;div&gt;le cortisol&lt;/div&gt;" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="656" y="400" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KMllPCVLpyvuSk6OKacK-47" value="&lt;div align=&quot;right&quot;&gt;&lt;u&gt;Augmentation&lt;/u&gt; &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;right&quot;&gt;des spasmes des vaisseaux sanguins, artères, et veines,&lt;/div&gt;&lt;div align=&quot;right&quot;&gt;de l&#39;excitabilité des muscles,&lt;/div&gt;&lt;div align=&quot;right&quot;&gt;de la pression artérielle et du pouls&lt;/div&gt;&lt;div align=&quot;right&quot;&gt;du glucose sanguin dont 30 pourcents est utilisé par le cerveau&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;right&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="490" y="456" width="319" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
