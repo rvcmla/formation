@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-26T10:44:56.321Z" agent="5.0 (X11)" etag="us2lW85OWit1RvEv0-bY" version="18.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-26T10:46:03.848Z" agent="5.0 (X11)" etag="XKS-ga0R1elMRhxkhMJW" version="18.0.8" type="github">
   <diagram id="obGRaE8XgYMWURcT9A6B" name="Page-1">
     <mxGraphModel dx="1398" dy="913" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -109,16 +109,16 @@
         <mxCell id="KMllPCVLpyvuSk6OKacK-33" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Quelque soit l&#39;intensité&lt;/div&gt;&lt;div&gt;(faible ou forte)&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="320" y="30" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KMllPCVLpyvuSk6OKacK-34" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;entryX=0.85;entryY=0.713;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="KMllPCVLpyvuSk6OKacK-25">
+        <mxCell id="KMllPCVLpyvuSk6OKacK-34" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="361" y="340" as="sourcePoint" />
-            <mxPoint x="461" y="440" as="targetPoint" />
+            <mxPoint x="290" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KMllPCVLpyvuSk6OKacK-35" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;exitX=0.975;exitY=0.66;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KMllPCVLpyvuSk6OKacK-19" target="KMllPCVLpyvuSk6OKacK-30">
+        <mxCell id="KMllPCVLpyvuSk6OKacK-35" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;exitX=0.975;exitY=0.66;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="KMllPCVLpyvuSk6OKacK-19">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="411" y="490" as="sourcePoint" />
-            <mxPoint x="461" y="440" as="targetPoint" />
+            <mxPoint x="590" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KMllPCVLpyvuSk6OKacK-36" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="KMllPCVLpyvuSk6OKacK-25" target="KMllPCVLpyvuSk6OKacK-22">
