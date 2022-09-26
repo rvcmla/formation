@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-26T10:56:19.331Z" agent="5.0 (X11)" etag="dRfALq8ZEv9Oeh37nZNE" version="18.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-26T11:15:28.545Z" agent="5.0 (X11)" etag="TStsJuV1Dcc0u9ARPtJy" version="18.0.8" type="github">
   <diagram id="obGRaE8XgYMWURcT9A6B" name="Page-1">
-    <mxGraphModel dx="1398" dy="913" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1864" dy="1217" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -178,7 +178,7 @@
         <mxCell id="KMllPCVLpyvuSk6OKacK-46" value="&lt;div&gt;secrète l&#39;aldostérone, &lt;br&gt;&lt;/div&gt;&lt;div&gt;la cortisone et &lt;br&gt;&lt;/div&gt;&lt;div&gt;le cortisol&lt;/div&gt;" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="656" y="400" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="KMllPCVLpyvuSk6OKacK-47" value="&lt;div align=&quot;right&quot;&gt;&lt;u&gt;Augmentation&lt;/u&gt; &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;right&quot;&gt;des spasmes des vaisseaux sanguins, artères, et veines,&lt;/div&gt;&lt;div align=&quot;right&quot;&gt;de l&#39;excitabilité des muscles,&lt;/div&gt;&lt;div align=&quot;right&quot;&gt;de la pression artérielle et du pouls&lt;/div&gt;&lt;div align=&quot;right&quot;&gt;du glucose sanguin dont 30 pourcents est utilisé par le cerveau&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;right&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="KMllPCVLpyvuSk6OKacK-47" value="&lt;div align=&quot;right&quot;&gt;&lt;u&gt;Augmentation&lt;/u&gt; &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;right&quot;&gt;des réserves du foie,&lt;/div&gt;&lt;div align=&quot;right&quot;&gt;de l&#39;acide urique et de l&#39;urée,&lt;/div&gt;&lt;div align=&quot;right&quot;&gt;&lt;u&gt;Diminution&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;right&quot;&gt;du Zn et de Mg&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;right&quot;&gt;&lt;u&gt;Neutralisation&lt;/u&gt;&lt;/div&gt;&lt;div align=&quot;right&quot;&gt;des activités des anticorps&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;right&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="490" y="456" width="319" height="160" as="geometry" />
         </mxCell>
       </root>
