@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-26T11:15:28.545Z" agent="5.0 (X11)" etag="TStsJuV1Dcc0u9ARPtJy" version="18.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-27T09:28:06.191Z" agent="5.0 (X11)" etag="0mw7Te4VLq0aQXUVRyzi" version="18.0.8" type="github">
   <diagram id="obGRaE8XgYMWURcT9A6B" name="Page-1">
-    <mxGraphModel dx="1864" dy="1217" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1271" dy="830" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -180,6 +180,9 @@
         </mxCell>
         <mxCell id="KMllPCVLpyvuSk6OKacK-47" value="&lt;div align=&quot;right&quot;&gt;&lt;u&gt;Augmentation&lt;/u&gt; &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;right&quot;&gt;des réserves du foie,&lt;/div&gt;&lt;div align=&quot;right&quot;&gt;de l&#39;acide urique et de l&#39;urée,&lt;/div&gt;&lt;div align=&quot;right&quot;&gt;&lt;u&gt;Diminution&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;right&quot;&gt;du Zn et de Mg&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;right&quot;&gt;&lt;u&gt;Neutralisation&lt;/u&gt;&lt;/div&gt;&lt;div align=&quot;right&quot;&gt;des activités des anticorps&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;right&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="490" y="456" width="319" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="KMllPCVLpyvuSk6OKacK-49" value="&lt;h1&gt;Exemples&lt;/h1&gt;&lt;ol&gt;&lt;li&gt;&lt;b&gt;Augmentation de la spasticité des vaisseaux et de l&#39;excitabilité des muscles&lt;/b&gt; =&amp;gt; Crampes, souffrances musculaires, infarctus du myocarde&lt;/li&gt;&lt;li&gt;&lt;b&gt;Augmentation du pouls ou de la pression artérielle&lt;/b&gt; =&amp;gt; hypertension&lt;/li&gt;&lt;li&gt;&lt;b&gt;Augmentation du sucre afin de protéger le cerveau&lt;/b&gt; =&amp;gt; Troubles de glycémie&lt;/li&gt;&lt;li&gt;&lt;b&gt;Augmentation s réserves du foie&lt;/b&gt; =&amp;gt; Troubles au niveau de la peau et de l&#39;appareil respiratoire&lt;/li&gt;&lt;li&gt;&lt;b&gt;Diminution du Zn et Mg&lt;/b&gt; =&amp;gt; Fatigue importante&lt;/li&gt;&lt;li&gt;&lt;b&gt;Augmentation du sel&lt;/b&gt; =&amp;gt; rétention d&#39;eau et des œdèmes.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Neutralisation des anticorps responsables de la lutte contre les virus et bactéries et la prolifération des cellules anormales&lt;/b&gt; =&amp;gt; toutes les maladies allant d&#39;un simple rhume à l&#39;angine, sinusite, pneumonie et enfin cancer, ceci est dû à cause d&#39;un système immunitaire affaibli.&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="9" y="600" width="810" height="540" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
